@@ -1158,3 +1158,14 @@ button.btn.btn-primary:hover{
 a{
   text-decoration: none !important;
 }
+.icon-box{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 50%;
+    width: 67px;
+    height: 66px;
+    background-color: #050d8a;
+    color: white;
+}
