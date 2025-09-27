@@ -40,5 +40,9 @@
 #contact-row-align {
     margin: 15px;
 }
-
+}
+@media (max-width: 991.5px){
+    .skils-halogram{
+    padding: 0px !important;
+    }
 }
